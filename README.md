@@ -1,2 +1,1 @@
-# new3
-Created with CodeSandbox
+Integrate the project with redux
